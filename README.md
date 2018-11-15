@@ -4,8 +4,8 @@ https://img.shields.io/travis/rust-lang/rust/master.svg)](https://spurno.github.
 
 ## Screenshots
 
-![Demo 1](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap1.png){:height="600px" width="300px"}
-![Demo Click](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap2.png){:height="600px" width="300px"}
+![Demo 1](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap1.png)
+![Demo Click](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap2.png)
 
 ## License 
 
