@@ -1,12 +1,11 @@
-<center># RecyclerView</center>
-<center>[![build](
+# RecyclerView
+[![build](
 https://img.shields.io/travis/rust-lang/rust/master.svg)](https://spurno.github.io)
-</center>
 
 ## Screenshots
 
-![Demo 1](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap1.png)
-![Demo Click](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap2.png)
+![Demo 1](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap1.png){:height="600px" width="300px"}
+![Demo Click](https://raw.githubusercontent.com/SPurno/RecyclerView/master/screenshots/snap2.png){:height="600px" width="300px"}
 
 ## License 
 
