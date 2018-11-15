@@ -1,6 +1,7 @@
-# RecyclerView
-[![build](
+<center># RecyclerView</center>
+<center>[![build](
 https://img.shields.io/travis/rust-lang/rust/master.svg)](https://spurno.github.io)
+</center>
 
 ## Screenshots
 
